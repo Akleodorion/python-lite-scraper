@@ -1,0 +1,4 @@
+selectolax
+asyncio
+requests
+pyvirtualdisplay
